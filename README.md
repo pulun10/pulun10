@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Manuel Rodriguez</h1>
 <h3 align="center">Frontend Developer</h3>
 
-- 📫 Contactame a **manuelale9810@gmail.com**
+- 📫 Contactame **manuelale9810@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
