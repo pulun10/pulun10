@@ -5,7 +5,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://twitter.com/manuelrodriguez" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="manuelrodriguez" height="40px" width="40px"/></a> <a href="https://linkedin.com/in/manuelrodriguez" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manuelrodriguez" height="40px" width="40px"/></a>
+  <a href="https:linkedin.com/in/manuel-rodriguez-4123b219a" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manuelrodriguez" height="40px" width="40px"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
